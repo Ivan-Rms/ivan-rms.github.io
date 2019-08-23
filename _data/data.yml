@@ -83,8 +83,10 @@ experiences:
           - Administration d'un serveur de fichier Linux (Debian, Samba).
           - Gestion de la sauvegarde et restauration (Time Navigator).
           - Création de scripts VBS et Powershell pour l'automatisation de tâches.
+          
         Administration d'applications :
           - Administration du portail captif d'accès à internet (Application Web)
+          
         Support :
           - Support Helpdesk de proximité pour les utilisateurs du siège et des sites distants, support téléphonique, gestion de tickets et incidents niveau 1 et 2.
           - Création et maintien à jour de la documentation et des procédures.
@@ -99,12 +101,15 @@ experiences:
           - Configuration et gestion de VLAN, sécurisation des ports réseau.
           - Gestion des droits sur l'ensemble des répertoires partagés sur le réseau, gestion des groupes de sécurité (AD).
           - Maintenance du parc informatique (Création d'images système, captures et déploiement sur postes de travail, configuration des postes de travail).
+          
         Support :
           - Assistance Utilisateurs (Prises d'appels, Gestion des incidents niveau 1 et niveau 2)
           - Administration de l'outil de gestion de tickets.
+          
         Téléphonie :
           - Gestion du PABX Alcatel Omni PCX 4400.
           - Création et modification de numéros de téléphones.
+          
         Projets :
           - Refonte du réseau de consultation internet, mise en place d'un contrôleur de domaine avec réplication, création et configuration de profils itinérants, déploiement d'un portail d'authentification avec journalisation des connexions pour chaque utilisateur.
 
