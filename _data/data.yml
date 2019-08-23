@@ -66,48 +66,47 @@ education:
       details: |      
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Administrateur Système et Réseau
+      time: 2016 - Present
+      company: Eurofins Optimed, Gières
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Administrateur Système
+      time: 2014 - 2016
+      company: Ministère des armées, Varces
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Administration systèmes et réseaux :
+          - Gestion des comptes utilisateurs, des unités d’organisation et mise en place de GPO. (environ 1200 utilisateurs)
+          - Migration des postes clients de XP vers 7 avec sauvegarde et restauration des données utilisateurs (migwiz + script)
+          - Gestion des droits sur l'ensemble des répertoires partagés sur le réseau, gestion des groupes de sécurité (AD, DFS).
+          - Administration d'un portail captif d'authentification et de contrôle d'accès à internet (ALCASAR, Mageia 6).
+          - Administration d'un serveur de fichier Linux (Debian, Samba).
+          - Gestion de la sauvegarde et restauration (Time Navigator).
+          - Création de scripts VBS et Powershell pour l'automatisation de tâches.
+        Administration d'applications :
+          - Administration du portail captif d'accès à internet (Application Web)
+        Support :
+          - Support Helpdesk de proximité pour les utilisateurs du siège et des sites distants, support téléphonique, gestion de tickets et incidents niveau 1 et 2.
+          - Création et maintien à jour de la documentation et des procédures.
+    - role: Technicien système et réseaux
+      time: 2012 - 2013
+      company: Centre de recherche du service de santé des armées - La Tronche
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Exploitation du réseau informatique local :
+          - Administration des domaines sous Windows 2003.
+          - Gestion des comptes utilisateurs, des unités d’organisation et mise en place de GPO. (environ 150 utilisateurs)
+          - Gestion de la sauvegarde et restauration (TiNa)
+          - Configuration et gestion de VLAN, sécurisation des ports réseau.
+          - Gestion des droits sur l'ensemble des répertoires partagés sur le réseau, gestion des groupes de sécurité (AD).
+          - Maintenance du parc informatique (Création d'images système, captures et déploiement sur postes de travail, configuration des postes de travail).
+        Support :
+          - Assistance Utilisateurs (Prises d'appels, Gestion des incidents niveau 1 et niveau 2)
+          - Administration de l'outil de gestion de tickets.
+        Téléphonie :
+          - Gestion du PABX Alcatel Omni PCX 4400.
+          - Création et modification de numéros de téléphones.
+        Projets :
+          - Refonte du réseau de consultation internet, mise en place d'un contrôleur de domaine avec réplication, création et configuration de profils itinérants, déploiement d'un portail d'authentification avec journalisation des connexions pour chaque utilisateur.
 
 projects:
     title: Projects
@@ -137,25 +136,17 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#    papers:
+#      - title: 
+#        authors: 
+#        conference: 
 
 skills:
     title: Skills &amp; Proficiency
